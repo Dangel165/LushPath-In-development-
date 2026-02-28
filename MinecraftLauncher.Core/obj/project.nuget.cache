@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "faXC+jevjdA=",
+  "success": true,
+  "projectFilePath": "E:\\ofntkd\\MinecraftLauncher\\src\\MinecraftLauncher.Core\\MinecraftLauncher.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fff20\\.nuget\\packages\\fnbt\\1.0.0\\fnbt.1.0.0.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.3\\microsoft.win32.systemevents.10.0.3.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\polly\\8.6.5\\polly.8.6.5.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\polly.core\\8.6.5\\polly.core.8.6.5.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.codedom\\10.0.0\\system.codedom.10.0.0.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.drawing.common\\10.0.3\\system.drawing.common.10.0.3.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.io.pipelines\\10.0.3\\system.io.pipelines.10.0.3.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.management\\10.0.0\\system.management.10.0.0.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.text.encodings.web\\10.0.3\\system.text.encodings.web.10.0.3.nupkg.sha512",
+    "C:\\Users\\fff20\\.nuget\\packages\\system.text.json\\10.0.3\\system.text.json.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

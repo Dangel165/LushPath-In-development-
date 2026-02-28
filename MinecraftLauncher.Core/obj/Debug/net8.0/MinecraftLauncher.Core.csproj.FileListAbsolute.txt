@@ -1,0 +1,12 @@
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\bin\Debug\net8.0\MinecraftLauncher.Core.deps.json
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\bin\Debug\net8.0\MinecraftLauncher.Core.dll
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\bin\Debug\net8.0\MinecraftLauncher.Core.pdb
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.csproj.AssemblyReference.cache
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.AssemblyInfoInputs.cache
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.AssemblyInfo.cs
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.csproj.CoreCompileInputs.cache
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.dll
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\refint\MinecraftLauncher.Core.dll
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\MinecraftLauncher.Core.pdb
+E:\ofntkd\MinecraftLauncher\src\MinecraftLauncher.Core\obj\Debug\net8.0\ref\MinecraftLauncher.Core.dll
